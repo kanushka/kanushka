@@ -14,9 +14,5 @@
 
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanushka&theme=github)
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=kanushka&show_icons=true&theme=github)
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=kanushka&theme=github) 
-
 
 <!-- ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanushka&theme=github) -->
